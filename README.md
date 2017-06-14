@@ -1,6 +1,7 @@
 dockerfiles
 ===========
-本篇为docker学习，若有侵权请联系lc438732659@163.com，会立即删除。
+本篇为docker学习，若有侵权请联系lc438732659@163.com，会立即删除。   
+
 感谢vimagick的 https://github.com/vimagick/dockerfiles 
 
 ## auto-completion
